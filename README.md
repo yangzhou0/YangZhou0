@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning [Advanced Linear Algebra](https://www.cs.utexas.edu/graduate-program/masters-program/online-option/courses/advanced-linear-algebra)
 - 📫 Want to know more? => [My site](https://yangzhou-site.herokuapp.com/)
 - ⚡ Fun fact: I make year-long goals for each year
-  - In 2019: I obtained my SkyDiving A-license
+  - In 2019: I obtained my sky diving A-license
   - In 2020: I got my first A from Harvard
   - In 2021: To obtain my private pilot license
 
