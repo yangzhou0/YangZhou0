@@ -12,5 +12,5 @@
   - In 2021: To obtain my private pilot license
 
 ### Github statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangzhou93&theme=tokyonight&layout=compact&card_width=10)](https://github.com/yangzhou93)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangzhou93&theme=tokyonight&layout=compact&card_width=95)](https://github.com/yangzhou93)
 [![Yang's github stats](https://github-readme-stats.vercel.app/api?username=yangzhou93&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/yangzhou93)
