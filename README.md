@@ -3,13 +3,14 @@
 
 ### Hi there 👋
 #### My name is Yang and I am interested in unique opportunities and working on projects that can change the world. 
-- 🔭 I’m currently working on [Skill-Link](https://github.com/yangzhou93/skill-link_frontend) & [Epic Mountains](https://github.com/yangzhou93/snowFrontEnd)
-- 🌱 I’m currently learning [Advanced Linear Algebra](https://www.cs.utexas.edu/graduate-program/masters-program/online-option/courses/advanced-linear-algebra)
+- 🔭 I’m currently learning C to prepare for my next class [Graduate Intro to Operating System](https://omscs.gatech.edu/cs-6200-introduction-operating-systems)
+- 🌱 I’m also working with my friends to build a tenants management app, check it out: [TenantRM](https://www.tenantrm.com/)
 - 📫 Want to know more? => [My site](https://yangzhou-site.herokuapp.com/)
 - ⚡ Fun fact: I make year-long goals for each year
   - In 2019: I obtained my sky diving A-license
   - In 2020: I got my first A from Harvard
-  - In 2021: To obtain my private pilot license
+  - In 2021: I landed my first software engineer Job
+  - in 2022: To obtain my private pilot license
 
 ### Github statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangzhou93&theme=tokyonight&layout=compact&card_width=445)](https://github.com/yangzhou93)<br/>
