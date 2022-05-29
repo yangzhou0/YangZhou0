@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 #### My name is Yang and I am interested in unique opportunities and working on projects that can change the world. 
-- 🔭 I’m currently learning C to prepare for my next class [Graduate Intro to Operating System](https://omscs.gatech.edu/cs-6200-introduction-operating-systems)
+- 🔭 I’m currently learning C to prepare for my next class at Georgia Tech: [Graduate Intro to Operating System](https://omscs.gatech.edu/cs-6200-introduction-operating-systems)
 - 🌱 I’m also working with my friends to build a tenants management app, check it out: [TenantRM](https://www.tenantrm.com/)
 - 📫 Want to know more? => [My site](https://yangzhou-site.herokuapp.com/)
 - ⚡ Fun fact: I make year-long goals for each year
