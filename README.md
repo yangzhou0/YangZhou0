@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 #### My name is Yang and I am interested in unique opportunities and working on projects that can change the world. 
-- 🔭 I’m currently learning grinding LeetCode to keep my Data Structure & Algorithm skills up to date
+- 🔭 I’m currently battling with LeetCode to keep my Data Structure & Algorithm skills up to date
 - 🌱 I’m also working with my friends to build a tenants management app, check it out: [TenantRM](https://www.tenantrm.com/)
 - 📫 Want to know more? => [My site](https://yangzhou-site.herokuapp.com/) & [LinkedIn](https://www.linkedin.com/in/yang--zhou/)
 - ⚡ Fun fact: I have been making and acheieving year-long goals since 2019
