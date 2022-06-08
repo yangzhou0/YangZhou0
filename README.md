@@ -5,7 +5,7 @@
 #### My name is Yang and I am interested in unique opportunities and working on projects that can change the world. 
 - 🔭 I’m currently learning C to prepare for my next class at Georgia Tech: [Graduate Intro to Operating System](https://omscs.gatech.edu/cs-6200-introduction-operating-systems)
 - 🌱 I’m also working with my friends to build a tenants management app, check it out: [TenantRM](https://www.tenantrm.com/)
-- 📫 Want to know more? => [My site](https://yangzhou-site.herokuapp.com/)
+- 📫 Want to know more? => [My site](https://yangzhou-site.herokuapp.com/) & [LinkedIn](https://www.linkedin.com/in/yang--zhou/)
 - ⚡ Fun fact: I have been making and acheieving year-long goals since 2019
   - In 2019: I obtained my sky diving A-license
   - In 2020: I got my first A in a Software Engineering class from Harvard
