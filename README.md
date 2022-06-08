@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/LinkedIn-yangzhou1-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/yang--zhou/)
+[![](https://img.shields.io/badge/LinkedIn-YangZhou-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/yang--zhou/)
 [![](https://img.shields.io/badge/Gmail-yzhou3991@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:yzhou3991@gmail.com)
 
 ### Hi there 👋
