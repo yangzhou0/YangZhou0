@@ -13,8 +13,8 @@
   - in 2022: To obtain my private pilot license
 
 ### Github statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangzhou93&theme=tokyonight&layout=compact&card_width=445)](https://github.com/yangzhou93)<br/>
-[![Yang's github stats](https://github-readme-stats.vercel.app/api?username=yangzhou93&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/yangzhou93)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangZhou0&theme=tokyonight&layout=compact&card_width=445)](https://github.com/YangZhou0)<br/>
+[![Yang's github stats](https://github-readme-stats.vercel.app/api?username=YangZhou0&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/YangZhou0)
 
 ### LeetCode Progress
 [![Leetcode Stats](https://leetcard.jacoblin.cool/yangzhou93?theme=dark)](https://leetcode.com/yangzhou93)
