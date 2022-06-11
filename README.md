@@ -17,5 +17,5 @@
 [![Yang's github stats](https://github-readme-stats.vercel.app/api?username=YangZhou0&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/YangZhou0)
 
 ### LeetCode Progress
-[![Leetcode Stats](https://leetcard.jacoblin.cool/yangzhou93?theme=dark)](https://leetcode.com/yangzhou93)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/YangZhou0?theme=dark)](https://leetcode.com/YangZhou0)
 
