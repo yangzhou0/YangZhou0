@@ -8,9 +8,10 @@
 - 📫 Want to know more? => [My site](https://yangzhou-site.herokuapp.com/) & [LinkedIn](https://www.linkedin.com/in/yang--zhou/)
 - ⚡ Fun fact: I have been making and acheieving year-long goals since 2019
   - In 2019: I obtained my sky diving A-license
-  - In 2020: I got my first A in a Software Engineering class from Harvard
+  - In 2020: I got my first A in a Software Engineering class
   - In 2021: I landed my first software engineer Job
-  - in 2022: To obtain my private pilot license
+  - In 2022: To obtain my private pilot license
+  - In 2023: TBD
 
 ### Github statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangZhou0&theme=tokyonight&layout=compact&card_width=445)](https://github.com/YangZhou0)<br/>
