@@ -10,7 +10,7 @@
   - In 2019: I obtained my sky diving A-license
   - In 2020: I got my first A in a Software Engineering class
   - In 2021: I landed my first software engineer Job
-  - In 2022: To obtain my private pilot license
+  - In 2022: To obtain my private pilot license (Did not achieve :/)
   - In 2023: TBD
 
 ### Github statistics
